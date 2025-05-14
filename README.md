@@ -1,2 +1,2 @@
-# Jogo_multiplayer
-Trabalho de de Redes de Compurador Jogo Multiplayer
+# Jogo_multiplayer_Chevalier
+Trabalho de de Redes de Computador, Jogo Multiplayer.
